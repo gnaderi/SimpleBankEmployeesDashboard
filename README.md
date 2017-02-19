@@ -27,7 +27,7 @@ The application can be built on the command line with mvn clean install.
 
 It can also be imported into Eclipse or any other IDE of your choice as a Maven project and
 
-then executed with javatest.DeveloperTestApplicationas the main entry point.
+then executed with com.interview.sapro.aib.SimpleBankEmployeesDashboardApplication the main entry point.
 
 The UI can then be opened in the browser at http://localhost:8080.
 
