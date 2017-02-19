@@ -1,0 +1,10 @@
+Notes:
+
+     § Added custom error/exception handling page-- it is far away from real error page, I just created that happy path.
+
+    Improvement could be done by because of the time limit:
+            --Adding exception handler layer on beside the application.
+            --Adding LOGGER to  all classes.
+            --3 layers programming is essential.
+            --I18n is missing ....
+
